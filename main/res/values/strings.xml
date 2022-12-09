@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">adapt</string>
+    <string name="button_port">Change picture</string>
+    <string name="button_land">Change</string>
+</resources>
